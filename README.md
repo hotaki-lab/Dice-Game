@@ -1,7 +1,6 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    @import "styles.css";
     <title>Play Dice with Habib</title>
     <link rel="stylesheet" href="styles.css">
     <link href="https://fonts.googleapis.com/css?family=Indie+Flower|Lobster" rel="stylesheet">
