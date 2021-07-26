@@ -1,3 +1,5 @@
+@import "styles.css";
+
 var randomNumber1 = Math.floor(((Math.random())*6)+1);
 var img1Rand = "images/dice" + randomNumber1 + ".png"
 var image1 = document.querySelectorAll("img")[0].setAttribute('src', img1Rand);
