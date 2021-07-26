@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
@@ -39,6 +38,5 @@
       </a>
       <p style="font-size: 15px; color: #fFF;">© 2021 Play Dice With Habib</p>
     </div>
-  </footer>
-</html>
+
 © 2021 GitHub, Inc.
